@@ -69,7 +69,7 @@ GitHub Copilot의 최신 기능을 활용해서 앱을 개발해 보고 싶은 �
 
 ## 참가 신청
 
-추후 안내
+- 등록 링크: https://ticketa.co/checkout/entry?ticketId=242
 
 ## 기타 안내
 
