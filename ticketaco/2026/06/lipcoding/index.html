@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>천하제일 입코딩 대회 with GitHub Copilot</title>
+    <meta name="description"
+        content="GitHub Copilot의 보이스 코딩 기능으로 앱을 만들어 봅시다. 2026년 6월 20일(토) 서울 광화문 마이크로소프트에서 열리는 입코딩 해커톤." />
+</head>
+
+<body>
+
+    <div
+        style="margin:0; background-color:#fff5f7; color:#1f2328; font-family:'Pretendard','Noto Sans KR',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif; -webkit-font-smoothing:antialiased; scroll-behavior:smooth;">
+        <div
+            style="min-width:320px; max-width:900px; margin:0 auto; background-color:#ffffff; min-height:100vh; box-shadow:0 1px 3px rgba(0,0,0,0.12);">
+
+            <!-- Hero Image -->
+            <div id="hero" style="width:100%;">
+                <img src="https://devrel-kr.github.io/event-landing-page/ticketaco/2026/06/lipcoding/images/hero-lipcoding.png" alt="천하제일 입코딩 대회 with GitHub Copilot"
+                    style="width:100%; display:block; object-fit:cover;" />
+            </div>
+
+            <!-- Hero -->
+            <div
+                style="background:linear-gradient(135deg, #2b0a14 0%, #6b0f1f 55%, #c2185b 100%); color:white; padding:80px 40px; text-align:center;">
+                <div
+                    style="display:inline-block; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.3); padding:8px 20px; border-radius:20px; font-size:14px; margin-bottom:24px; color:#ffd0dc; letter-spacing:0.5px;">
+                    🎤 Voice Coding Hackathon
+                </div>
+                <h1 style="font-size:42px; font-weight:700; margin:0 0 16px; line-height:1.3; color:white;">
+                    천하제일<br>입코딩 대회
+                </h1>
+                <p style="font-size:20px; color:rgba(255,255,255,0.9); margin:0 0 12px; line-height:1.6; font-weight:600;">
+                    with GitHub Copilot
+                </p>
+                <p style="font-size:17px; color:rgba(255,255,255,0.8); margin:0 0 40px; line-height:1.6;">
+                    GitHub Copilot의 보이스 코딩 기능으로 앱을 만들어 봅시다
+                </p>
+                <div
+                    style="background:rgba(255,255,255,0.1); border:1px solid rgba(255,255,255,0.25); padding:24px 40px; border-radius:12px; display:inline-block; text-align:left;">
+                    <p style="font-size:18px; color:white; margin:8px 0;">📅 2026년 6월 20일 (토)</p>
+                    <p style="font-size:18px; color:white; margin:8px 0;">🕐 09:00 - 18:00</p>
+                    <p style="font-size:18px; color:white; margin:8px 0;">📍 서울 광화문 마이크로소프트 13층</p>
+                </div>
+            </div>
+
+            <!-- Event Description -->
+            <div style="padding:60px 40px; border-bottom:1px solid #f1d4dc;">
+                <div style="max-width:700px; margin:0 auto;">
+                    <p style="font-size:18px; color:#57606a; line-height:1.8; margin:0;">
+                        GitHub Copilot의 최신 기능을 활용해서 앱을 개발해 보고 싶은 개발자 및 비개발자를 대상으로
+                        <strong style="color:#1f2328;">VS Code, Copilot CLI, GitHub App의 음성 코딩 기능</strong>만으로
+                        애플리케이션을 개발하는 해커톤입니다.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Who is this for -->
+            <!-- TODO: '이런 분들을 위한 행사입니다' 항목이 index.md에 명시되지 않아 합리적 기본값으로 채웠습니다. 필요 시 index.md에 3개 카드 내용을 추가해 주세요. -->
+            <div style="padding:60px 40px; background:#fff5f7;">
+                <div style="max-width:800px; margin:0 auto;">
+                    <h2
+                        style="text-align:center; font-size:32px; font-weight:700; color:#1f2328; margin:0 0 48px; line-height:1.3;">
+                        🎯 이런 분들을 위한 행사입니다
+                    </h2>
+
+                    <div
+                        style="background:white; padding:32px; border-radius:12px; margin-bottom:20px; border:1px solid #f1d4dc; text-align:center;">
+                        <div style="font-size:48px; margin-bottom:16px;">🗣️</div>
+                        <h3 style="font-size:22px; color:#c2185b; margin:0 0 12px; font-weight:600;">키보드 없이 코딩에 도전하고 싶은 분
+                        </h3>
+                        <p style="font-size:16px; color:#57606a; line-height:1.8; margin:0;">
+                            손이 아닌 목소리로 애플리케이션을 만들어 보고 싶은 분. GitHub Copilot의 음성 코딩 기능을 직접 체험하며 새로운 개발 방식을 경험해 보세요.
+                        </p>
+                    </div>
+
+                    <div
+                        style="background:white; padding:32px; border-radius:12px; margin-bottom:20px; border:1px solid #f1d4dc; text-align:center;">
+                        <div style="font-size:48px; margin-bottom:16px;">👩‍💻</div>
+                        <h3 style="font-size:22px; color:#c2185b; margin:0 0 12px; font-weight:600;">GitHub Copilot을 더
+                            깊이 활용하고 싶은 개발자
+                        </h3>
+                        <p style="font-size:16px; color:#57606a; line-height:1.8; margin:0;">
+                            VS Code, Copilot CLI, GitHub App을 음성으로 다루며 AI 보조 개발의 가능성을 한층 더 확장하고 싶은 개발자에게 적합합니다.
+                        </p>
+                    </div>
+
+                    <div
+                        style="background:white; padding:32px; border-radius:12px; border:1px solid #f1d4dc; text-align:center;">
+                        <div style="font-size:48px; margin-bottom:16px;">🚀</div>
+                        <h3 style="font-size:22px; color:#c2185b; margin:0 0 12px; font-weight:600;">AI 코딩이 처음인 비개발자
+                        </h3>
+                        <p style="font-size:16px; color:#57606a; line-height:1.8; margin:0;">
+                            코드를 한 줄도 써본 적 없어도 괜찮습니다. 말로 설명하면 Copilot이 앱을 만들어 주는 시대, 그 첫 경험을 함께해 보세요.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Keynote -->
+            <div style="padding:60px 40px;">
+                <div style="max-width:800px; margin:0 auto;">
+                    <h2
+                        style="text-align:center; font-size:32px; font-weight:700; color:#1f2328; margin:0 0 48px; line-height:1.3;">
+                        🎤 키노트 스피커
+                    </h2>
+
+                    <div
+                        style="border:2px solid #c2185b; border-radius:12px; overflow:hidden;">
+                        <div
+                            style="background:linear-gradient(135deg, #c2185b 0%, #6b0f1f 100%); color:white; padding:24px; text-align:center;">
+                            <div style="font-size:18px; font-weight:600; color:white;">Keynote</div>
+                        </div>
+                        <div style="padding:40px 32px; background:white; text-align:center;">
+                            <img src="https://devrel-kr.github.io/event-landing-page/ticketaco/2026/06/lipcoding/images/speaker-heejin-lee.png" alt="이희진"
+                                style="width:140px; height:140px; border-radius:50%; object-fit:cover; display:block; margin:0 auto 20px; border:4px solid #c2185b;" />
+                            <div style="font-size:24px; font-weight:700; color:#1f2328; margin-bottom:6px;">이희진</div>
+                            <div style="font-size:16px; color:#57606a; margin-bottom:4px;">GitHub Solution Engineer</div>
+                            <div style="font-size:16px; color:#57606a;">Microsoft</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Schedule -->
+            <div style="padding:60px 40px; background:#fff5f7;">
+                <div style="max-width:800px; margin:0 auto;">
+                    <h2
+                        style="text-align:center; font-size:32px; font-weight:700; color:#1f2328; margin:0 0 48px; line-height:1.3;">
+                        ⏰ 시간 계획
+                    </h2>
+
+                    <div style="border:2px solid #1f2328; border-radius:12px; overflow:hidden;">
+                        <div
+                            style="background:linear-gradient(135deg, #2b0a14 0%, #6b0f1f 100%); color:white; padding:32px; text-align:center;">
+                            <div style="font-size:48px; margin-bottom:16px;">📋</div>
+                            <div style="font-size:24px; font-weight:600; margin-bottom:8px; color:white;">하루 일정</div>
+                            <div style="font-size:16px; opacity:0.85; color:white;">2026년 6월 20일 (토) 09:00 - 18:00</div>
+                        </div>
+                        <div style="padding:16px; background:white;">
+                            <table style="width:100%; border-collapse:collapse;">
+                                <tbody>
+                                    <tr>
+                                        <td
+                                            style="padding:16px; background:#fff5f7; border-left:4px solid #c2185b; border-radius:8px;">
+                                            <strong style="color:#c2185b; font-size:15px;">09:00 - 09:30</strong><br>
+                                            <span style="font-size:16px; color:#1f2328;">체크인</span>
+                                        </td>
+                                    </tr>
+                                    <tr><td style="height:8px;"></td></tr>
+                                    <tr>
+                                        <td
+                                            style="padding:16px; background:#fff5f7; border-left:4px solid #c2185b; border-radius:8px;">
+                                            <strong style="color:#c2185b; font-size:15px;">09:30 - 09:40</strong><br>
+                                            <span style="font-size:16px; color:#1f2328;">오프닝</span>
+                                        </td>
+                                    </tr>
+                                    <tr><td style="height:8px;"></td></tr>
+                                    <tr>
+                                        <td
+                                            style="padding:16px; background:#fff5f7; border-left:4px solid #c2185b; border-radius:8px;">
+                                            <strong style="color:#c2185b; font-size:15px;">09:40 - 10:20</strong><br>
+                                            <span style="font-size:16px; color:#1f2328; font-weight:600;">키노트</span><br>
+                                            <span style="font-size:14px; color:#57606a;">이희진 (GitHub Solution Engineer, Microsoft)</span>
+                                        </td>
+                                    </tr>
+                                    <tr><td style="height:8px;"></td></tr>
+                                    <tr>
+                                        <td
+                                            style="padding:16px; background:#fff5f7; border-left:4px solid #c2185b; border-radius:8px;">
+                                            <strong style="color:#c2185b; font-size:15px;">10:20 - 10:30</strong><br>
+                                            <span style="font-size:16px; color:#1f2328;">주제 소개</span>
+                                        </td>
+                                    </tr>
+                                    <tr><td style="height:8px;"></td></tr>
+                                    <tr>
+                                        <td
+                                            style="padding:16px; background:#fdebf2; border-left:4px solid #6b0f1f; border-radius:8px;">
+                                            <strong style="color:#6b0f1f; font-size:15px;">10:30 - 17:00</strong><br>
+                                            <span style="font-size:16px; color:#1f2328; font-weight:600;">입코딩 해커톤 🗣️</span><br>
+                                            <span style="font-size:14px; color:#57606a;">VS Code · Copilot CLI · GitHub App의 음성 코딩 기능만으로 앱 개발</span>
+                                        </td>
+                                    </tr>
+                                    <tr><td style="height:8px;"></td></tr>
+                                    <tr>
+                                        <td
+                                            style="padding:16px; background:#fff5f7; border-left:4px solid #c2185b; border-radius:8px;">
+                                            <strong style="color:#c2185b; font-size:15px;">17:00 - 17:30</strong><br>
+                                            <span style="font-size:16px; color:#1f2328;">발표</span>
+                                        </td>
+                                    </tr>
+                                    <tr><td style="height:8px;"></td></tr>
+                                    <tr>
+                                        <td
+                                            style="padding:16px; background:#fff5f7; border-left:4px solid #c2185b; border-radius:8px;">
+                                            <strong style="color:#c2185b; font-size:15px;">17:30 - 18:00</strong><br>
+                                            <span style="font-size:16px; color:#1f2328;">시상 및 클로징</span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Prizes (session intro slot — no speakers.csv) -->
+            <div style="padding:60px 40px;">
+                <div style="max-width:800px; margin:0 auto;">
+                    <h2
+                        style="text-align:center; font-size:32px; font-weight:700; color:#1f2328; margin:0 0 16px; line-height:1.3;">
+                        🏆 입상자 상품
+                    </h2>
+                    <p style="text-align:center; font-size:17px; color:#57606a; margin:0 0 40px; line-height:1.6;">
+                        입코딩 해커톤 입상자에게는 아래와 같은 상품을 제공합니다.
+                    </p>
+
+                    <div style="display:flex; flex-wrap:wrap; gap:16px; margin-bottom:40px;">
+                        <div
+                            style="flex:1 1 240px; background:linear-gradient(135deg, #fff5f7 0%, #fdebf2 100%); padding:32px 24px; border-radius:12px; border:2px solid #c2185b; text-align:center;">
+                            <div style="font-size:40px; margin-bottom:12px;">🥇</div>
+                            <div style="font-size:18px; font-weight:700; color:#c2185b; margin-bottom:6px;">대상</div>
+                            <div style="font-size:14px; color:#57606a;">1명 또는 1팀</div>
+                        </div>
+                        <div
+                            style="flex:1 1 240px; background:#fff5f7; padding:32px 24px; border-radius:12px; border:1px solid #f1d4dc; text-align:center;">
+                            <div style="font-size:40px; margin-bottom:12px;">🥈</div>
+                            <div style="font-size:18px; font-weight:700; color:#c2185b; margin-bottom:6px;">최우수상</div>
+                            <div style="font-size:14px; color:#57606a;">1명 또는 1팀</div>
+                        </div>
+                        <div
+                            style="flex:1 1 240px; background:#fff5f7; padding:32px 24px; border-radius:12px; border:1px solid #f1d4dc; text-align:center;">
+                            <div style="font-size:40px; margin-bottom:12px;">🥉</div>
+                            <div style="font-size:18px; font-weight:700; color:#c2185b; margin-bottom:6px;">우수상</div>
+                            <div style="font-size:14px; color:#57606a;">1명 또는 1팀</div>
+                        </div>
+                    </div>
+
+                    <p style="text-align:center; font-size:15px; color:#6e7781; margin:0 0 40px;">
+                        <strong>자세한 내용은 추후 안내합니다</strong>
+                    </p>
+
+                    <div
+                        style="background:#fff5f7; border:1px dashed #c2185b; border-radius:12px; padding:24px 28px; text-align:center;">
+                        <div style="font-size:32px; margin-bottom:8px;">🎁</div>
+                        <h3 style="font-size:20px; font-weight:700; color:#1f2328; margin:0 0 8px;">참가자 상품</h3>
+                        <p style="font-size:15px; color:#57606a; margin:0; line-height:1.7;">
+                            모든 참가자를 대상으로 천하제일 입코딩대회에서만 받을 수 있는<br>
+                            <strong style="color:#c2185b;">특별한 기념품</strong>을 제공합니다.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Event Info -->
+            <div style="padding:60px 40px; background:#fff5f7;">
+                <div style="max-width:800px; margin:0 auto;">
+                    <h2
+                        style="text-align:center; font-size:32px; font-weight:700; color:#1f2328; margin:0 0 48px; line-height:1.3;">
+                        📢 행사 안내
+                    </h2>
+
+                    <div style="display:flex; flex-wrap:wrap; gap:20px;">
+                        <div
+                            style="flex:1 1 360px; background:white; padding:32px; border-radius:12px; border-left:4px solid #c2185b;">
+                            <h4
+                                style="font-size:14px; color:#57606a; margin:0 0 8px; font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">
+                                📍 행사 장소</h4>
+                            <p style="font-size:17px; color:#1f2328; margin:0; line-height:1.7;">
+                                서울 종로구 종로 1길 50<br>
+                                더케이트윈타워 A동 13층<br>
+                                한국마이크로소프트
+                            </p>
+                        </div>
+
+                        <div
+                            style="flex:1 1 360px; background:white; padding:32px; border-radius:12px; border-left:4px solid #c2185b;">
+                            <h4
+                                style="font-size:14px; color:#57606a; margin:0 0 8px; font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">
+                                👥 참가 대상</h4>
+                            <p style="font-size:17px; color:#1f2328; margin:0; line-height:1.7;">
+                                학생, 개발자, AI 코딩에 관심 있는 누구나.<br>
+                                초보자부터 숙련된 개발자까지 모두 환영합니다.
+                            </p>
+                        </div>
+
+                        <div
+                            style="flex:1 1 360px; background:white; padding:32px; border-radius:12px; border-left:4px solid #c2185b;">
+                            <h4
+                                style="font-size:14px; color:#57606a; margin:0 0 8px; font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">
+                                🚇 주차 지원</h4>
+                            <p style="font-size:17px; color:#1f2328; margin:0; line-height:1.7;">
+                                주차는 지원하지 않습니다.<br>
+                                대중교통을 이용해 주세요.
+                            </p>
+                        </div>
+
+                        <div
+                            style="flex:1 1 360px; background:white; padding:32px; border-radius:12px; border-left:4px solid #c2185b;">
+                            <h4
+                                style="font-size:14px; color:#57606a; margin:0 0 8px; font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">
+                                💬 행사 문의</h4>
+                            <p style="font-size:17px; color:#1f2328; margin:0; line-height:1.7;">
+                                <a href="https://lipcoding.kr/discussions" target="_blank" rel="noopener noreferrer"
+                                    style="color:#c2185b; text-decoration:none; font-weight:600;">lipcoding.kr/discussions</a><br>
+                                <span style="font-size:14px; color:#57606a;">에서 문의해 주세요</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sponsors -->
+            <div style="padding:60px 40px;">
+                <div style="max-width:1000px; margin:0 auto;">
+                    <h2
+                        style="text-align:center; font-size:32px; font-weight:700; color:#1f2328; margin:0 0 16px; line-height:1.3;">
+                        🤝 행사 후원 및 지원
+                    </h2>
+                    <p style="text-align:center; font-size:17px; color:#57606a; margin:0 0 48px; line-height:1.6;">
+                        천하제일 입코딩대회의 성공적인 개최를 위해 도와주시는 곳입니다.
+                    </p>
+
+                    <div
+                        style="max-width:640px; margin:0 auto; display:grid; grid-template-columns:repeat(2, 1fr); gap:24px;">
+                        <a href="https://microsoft.com/ko-kr" target="_blank" rel="noopener noreferrer"
+                            style="background:white; border:1px solid #e1e4e8; border-radius:12px; padding:32px 24px; display:flex; align-items:center; justify-content:center; min-height:140px; overflow:hidden;">
+                            <img src="https://devrel-kr.github.io/event-landing-page/ticketaco/2026/06/lipcoding/images/sponsor-microsoft.png" alt="Microsoft"
+                                style="max-width:100%; max-height:72px; object-fit:contain; transform:scale(2.0); transform-origin:center;" />
+                        </a>
+                        <a href="https://www.megazone.com" target="_blank" rel="noopener noreferrer"
+                            style="background:white; border:1px solid #e1e4e8; border-radius:12px; padding:32px 24px; display:flex; align-items:center; justify-content:center; min-height:140px;">
+                            <img src="https://devrel-kr.github.io/event-landing-page/ticketaco/2026/06/lipcoding/images/sponsor-megazonecloud.png" alt="메가존 클라우드"
+                                style="max-width:100%; max-height:72px; object-fit:contain;" />
+                        </a>
+                        <a href="https://www.jabra.com/ko-KR" target="_blank" rel="noopener noreferrer"
+                            style="background:white; border:1px solid #e1e4e8; border-radius:12px; padding:32px 24px; display:flex; align-items:center; justify-content:center; min-height:140px;">
+                            <img src="https://devrel-kr.github.io/event-landing-page/ticketaco/2026/06/lipcoding/images/sponsor-jabra.png" alt="Jabra"
+                                style="max-width:100%; max-height:72px; object-fit:contain;" />
+                        </a>
+                        <a href="https://linktr.ee/wwcodeseoul" target="_blank" rel="noopener noreferrer"
+                            style="background:white; border:1px solid #e1e4e8; border-radius:12px; padding:32px 24px; display:flex; align-items:center; justify-content:center; min-height:140px;">
+                            <img src="https://devrel-kr.github.io/event-landing-page/ticketaco/2026/06/lipcoding/images/sponsor-womxnwhocodekorea.png" alt="우먼후코드 코리아"
+                                style="max-width:100%; max-height:72px; object-fit:contain;" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Registration CTA -->
+            <div
+                style="padding:80px 40px; background:linear-gradient(135deg, #2b0a14 0%, #6b0f1f 55%, #c2185b 100%); text-align:center;">
+                <div style="max-width:600px; margin:0 auto;">
+                    <h2 style="font-size:32px; font-weight:700; color:white; margin:0 0 16px;">
+                        지금 바로 신청하세요!
+                    </h2>
+                    <p style="font-size:18px; color:rgba(255,255,255,0.85); margin:0 0 16px; line-height:1.6;">
+                        목소리로 코드를 짜고, 손 대신 입으로 앱을 만드는<br>
+                        새로운 해커톤에 함께해 주세요.
+                    </p>
+                    <p style="font-size:15px; color:rgba(255,255,255,0.65); margin:0 0 40px;">
+                        📅 참가 신청: 추후 안내
+                    </p>
+
+                    <!-- TODO: 참가신청링크를 index.md에 추가하세요 (예: '참가신청링크: https://...') -->
+                    <a href="#"
+                        style="display:inline-block; background:#ffffff; color:#c2185b; padding:16px 48px; border-radius:8px; text-decoration:none; font-size:18px; font-weight:700; letter-spacing:0.3px;">
+                        참가 신청하기 →
+                    </a>
+                    <p style="font-size:13px; color:rgba(255,255,255,0.65); margin:12px 0 0;">
+                        ⚠️ TODO: 참가신청링크를 <code style="background:rgba(255,255,255,0.15); padding:2px 6px; border-radius:4px;">index.md</code>에 추가하세요
+                    </p>
+
+                    <div
+                        style="margin-top:40px; padding:24px; background:rgba(255,255,255,0.08); border-radius:12px; border:1px solid rgba(255,255,255,0.15); text-align:left;">
+                        <p style="font-size:14px; color:rgba(255,255,255,0.85); margin:0 0 8px; font-weight:600;">📢 참가자 안내사항</p>
+                        <ul
+                            style="font-size:14px; color:rgba(255,255,255,0.7); margin:0; padding-left:18px; line-height:1.9;">
+                            <li>VS Code, Copilot CLI, GitHub App의 음성 코딩 기능을 활용한 해커톤입니다</li>
+                            <li>본인 노트북과 헤드셋(마이크)을 지참해 주세요</li>
+                            <li>주차는 지원되지 않으며 대중교통 이용을 권장합니다</li>
+                            <li>입상자 시상은 17:30 클로징 세션에서 진행됩니다</li>
+                            <li>모든 참가자에게 특별한 기념품이 제공됩니다</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Footer -->
+            <div style="padding:40px; background:#fdebf2; border-top:1px solid #f1d4dc; text-align:center;">
+                <p style="font-size:15px; color:#1f2328; margin:0 0 8px; font-weight:600;">
+                    천하제일 입코딩 대회 with GitHub Copilot
+                </p>
+                <p style="font-size:14px; color:#57606a; margin:0 0 8px;">
+                    2026년 6월 20일 (토) 09:00 - 18:00 · 서울 광화문 마이크로소프트 13층
+                </p>
+                <p style="font-size:14px; color:#6e7781; margin:0 0 8px;">
+                    <a href="https://lipcoding.kr/discussions" target="_blank" rel="noopener noreferrer"
+                        style="color:#c2185b; text-decoration:none;">lipcoding.kr/discussions</a>
+                </p>
+                <p style="font-size:13px; color:#6e7781; margin:0;">
+                    #입코딩 #GitHubCopilot · © 2026 커뮤니티 이벤트
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
