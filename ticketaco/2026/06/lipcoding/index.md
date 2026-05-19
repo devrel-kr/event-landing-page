@@ -22,7 +22,7 @@ GitHub Copilot의 최신 기능을 활용해서 앱을 개발해 보고 싶은 �
 
 ![이희진](./images/speaker-heejin-lee.png)
 
-이희진 | GitHub Solution Engineer | Microsoft
+이희진 | Senior Solutions Engineer | GitHub
 
 ---
 
