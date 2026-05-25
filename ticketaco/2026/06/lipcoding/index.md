@@ -38,27 +38,35 @@ GitHub Copilot의 최신 기능을 활용해서 앱을 개발해 보고 싶은 �
 
 ---
 
-## 입상자 상품
+## 참가자를 위한 특별한 혜택
 
-입코딩 해커톤 입상자에게는 아래와 같은 상품을 제공합니다.
+천하제일 입코딩 대회에 참석하는 모든 참석자를 대상으로 GitHub Copilot Max 한달 이용권을 무료로 드립니다.
 
-- 대상 1명 또는 1팀
-- 최우수상 1명 또는 1팀
-- 우수상 1명 또는 1팀
+![GitHub Copilot Max](./images/benefit-github-copilot-max.png)
 
-**자세한 내용은 추후 안내합니다**
+이에 더해 천하제일 입코딩 대회에서만 받을 수 있는 특별한 기념품을 제공합니다.
 
 ---
 
-## 참가자 상품
+## 입상자 상품
 
-모든 참가자를 대상으로 천하제일 입코딩대회에서만 받을 수 있는 특별한 기념품을 제공합니다.
+- 대상: 1명 또는 1팀
+  - Xbox Series S
+  - ![Xbox Series S](./images/prize-xbox-series-s.png)
+- 최우수상: 1명 또는 1팀
+  - Jabra Evolve3 85
+  - ![Jabra Evolve3 85](./images/prize-jabra-evolve3-85.png)
+- 우수상: 1명 또는 1팀
+  - Jabra Evolve3 75
+  - ![Jabra Evolve3 75](./images/prize-jabra-evolve3-75.png)
+
+위 입상자 상품에 더해 입상자 중 메가존 클라우드에서 선정하여 1500만원 상당의 제품화 컨설팅을 제공합니다.
 
 ---
 
 ## 행사 후원 및 지원
 
-천하제일 입코딩대회의 성공적인 개최를 위해 도와주시는 곳입니다.
+천하제일 입코딩 대회의 성공적인 개최를 위해 도와주시는 곳입니다.
 
 [![Microsoft](./images/sponsor-microsoft.png)](https://microsoft.com/ko-kr)
 [![메가존 클라우드](./images/sponsor-megazonecloud.png)](https://www.megazone.com)
