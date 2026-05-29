@@ -51,8 +51,8 @@ GitHub Copilot의 최신 기능을 활용해서 앱을 개발해 보고 싶은 �
 ## 입상자 상품
 
 - 대상: 1명 또는 1팀
-  - Xbox Series S
-  - ![Xbox Series S](./images/prize-xbox-series-s.png)
+  - Xbox Series X
+  - ![Xbox Series X](./images/prize-xbox-series-x.png)
 - 최우수상: 1명 또는 1팀
   - Jabra Evolve3 85
   - ![Jabra Evolve3 85](./images/prize-jabra-evolve3-85.png)
