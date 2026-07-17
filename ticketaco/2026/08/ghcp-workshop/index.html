@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="GitHub Copilot Vibe Coding Workshop. 바이브 코딩으로 멀티 에이전트 앱을 개발하고 Azure에 배포하는 실전 워크숍입니다." />
+    <title>GitHub Copilot Vibe Coding Workshop</title>
+</head>
+
+<body style="margin:0;">
+    <div style="margin:0; background:#eef2f1; color:#161b18; font-family:'Pretendard','Noto Sans KR',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; -webkit-font-smoothing:antialiased;">
+        <div style="min-width:320px; max-width:900px; margin:0 auto; background:#ffffff; min-height:100vh; box-shadow:0 1px 12px rgba(18,24,21,0.12); overflow:hidden;">
+
+            <!-- Event banner -->
+            <div style="width:100%; background:#d9fff0; border-bottom:5px solid #20d45a;">
+                <img src="images/hero.png" alt="GitHub Copilot Seoul Multi-agent Workshop, 2026년 8월 14일" style="width:100%; display:block; object-fit:cover;" />
+            </div>
+
+            <!-- Hero -->
+            <div style="background:#0d1410; color:#ffffff; padding:76px 40px 72px; text-align:center;">
+                <div style="display:inline-block; padding:8px 18px; margin-bottom:24px; border:1px solid rgba(54,231,109,0.45); border-radius:8px; background:rgba(35,206,88,0.12); color:#45e476; font-size:14px; font-weight:700; letter-spacing:0;">
+                    SEOUL · HANDS-ON WORKSHOP
+                </div>
+                <h1 style="margin:0 0 18px; color:#ffffff; font-size:44px; font-weight:750; line-height:1.22; letter-spacing:0;">
+                    GitHub Copilot<br />Vibe Coding Workshop
+                </h1>
+                <p style="margin:0 auto 38px; max-width:620px; color:#b9c4bd; font-size:20px; line-height:1.65; letter-spacing:0;">
+                    바이브 코딩으로 멀티 에이전트 앱을 만들고<br />Azure 클라우드에 직접 배포하는 하루
+                </p>
+                <div style="display:inline-block; box-sizing:border-box; max-width:100%; padding:24px 34px; border:1px solid rgba(255,255,255,0.16); border-radius:8px; background:#172019; text-align:left;">
+                    <p style="margin:6px 0; color:#ffffff; font-size:17px; line-height:1.6;">2026년 8월 14일 (금)</p>
+                    <p style="margin:6px 0; color:#ffffff; font-size:17px; line-height:1.6;">10:00 - 18:00</p>
+                    <p style="margin:6px 0; color:#ffffff; font-size:17px; line-height:1.6;">한국 마이크로소프트 13층</p>
+                </div>
+            </div>
+
+            <!-- Introduction -->
+            <div style="padding:60px 40px; border-bottom:1px solid #dce4df;">
+                <div style="max-width:720px; margin:0 auto;">
+                    <p style="margin:0; color:#4f5d54; font-size:18px; line-height:1.85;">
+                        아이디어를 자연어로 설명하고, 여러 AI 에이전트와 함께 실제 서비스를 완성해 봅니다.
+                        <strong style="color:#161b18;">VS Code, Copilot CLI, Copilot app</strong> 같은 개발 도구로 앱을 만들고,
+                        <strong style="color:#161b18;">Copilot SDK</strong> 라이브러리를 활용해 AI 에이전트를 앱에 통합한 뒤 Azure 클라우드에 배포하는 실습 중심 워크숍입니다.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Audience -->
+            <div style="padding:64px 40px; background:#f3f7f4;">
+                <div style="max-width:800px; margin:0 auto;">
+                    <p style="margin:0 0 10px; color:#138b3b; font-size:14px; font-weight:800; text-align:center; letter-spacing:0;">WHO IT'S FOR</p>
+                    <h2 style="margin:0 0 42px; color:#161b18; font-size:32px; font-weight:750; line-height:1.35; text-align:center; letter-spacing:0;">이런 분들을 위한 행사입니다</h2>
+
+                    <div style="box-sizing:border-box; margin-bottom:16px; padding:30px; border:1px solid #d7e2da; border-left:5px solid #20c85a; border-radius:8px; background:#ffffff;">
+                        <div style="margin:0 0 9px; color:#11863a; font-size:20px; font-weight:750;">바이브 코딩을 실전에서 써보고 싶은 분</div>
+                        <p style="margin:0; color:#56635b; font-size:16px; line-height:1.75;">프롬프트에서 시작해 실행 가능한 앱까지 완성하는 개발 흐름을 직접 경험합니다.</p>
+                    </div>
+                    <div style="box-sizing:border-box; margin-bottom:16px; padding:30px; border:1px solid #d7e2da; border-left:5px solid #20c85a; border-radius:8px; background:#ffffff;">
+                        <div style="margin:0 0 9px; color:#11863a; font-size:20px; font-weight:750;">AI 개발 도구를 상황에 맞게 활용하고 싶은 분</div>
+                        <p style="margin:0; color:#56635b; font-size:16px; line-height:1.75;">VS Code부터 Copilot CLI, Copilot app까지 상황에 맞게 활용하는 방법을 익힙니다.</p>
+                    </div>
+                    <div style="box-sizing:border-box; padding:30px; border:1px solid #d7e2da; border-left:5px solid #20c85a; border-radius:8px; background:#ffffff;">
+                        <div style="margin:0 0 9px; color:#11863a; font-size:20px; font-weight:750;">AI 에이전트 앱을 만들고 배포하고 싶은 분</div>
+                        <p style="margin:0; color:#56635b; font-size:16px; line-height:1.75;">Copilot SDK 라이브러리를 앱에 통합해 멀티 에이전트 기능을 구현하고 Azure에 올리는 전체 과정을 따라갑니다.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Workshop topics -->
+            <div style="padding:64px 40px; background:#ffffff;">
+                <div style="max-width:800px; margin:0 auto;">
+                    <p style="margin:0 0 10px; color:#138b3b; font-size:14px; font-weight:800; text-align:center; letter-spacing:0;">WHAT YOU'LL BUILD</p>
+                    <h2 style="margin:0 0 16px; color:#161b18; font-size:32px; font-weight:750; line-height:1.35; text-align:center; letter-spacing:0;">워크숍에서 다루는 것</h2>
+                    <p style="margin:0 auto 42px; max-width:600px; color:#627067; font-size:17px; line-height:1.7; text-align:center;">도구 소개에 머물지 않고, 하나의 앱을 설계하고 만들고 배포하는 흐름으로 진행합니다.</p>
+
+                    <div style="overflow:hidden; border:2px solid #172019; border-radius:8px;">
+                        <div style="padding:30px; background:#111813; color:#ffffff;">
+                            <div style="font-size:24px; font-weight:750; line-height:1.4;">Multi-agent app, from idea to cloud</div>
+                        </div>
+                        <div style="padding:12px 30px 14px; background:#ffffff;">
+                            <div style="padding:19px 0; border-bottom:1px solid #dfe6e1;">
+                                <strong style="display:block; margin-bottom:5px; color:#11863a; font-size:17px;">01 · 멀티 에이전트 앱 개발</strong>
+                                <span style="color:#56635b; font-size:15px; line-height:1.7;">바이브 코딩으로 역할이 다른 여러 에이전트를 구성하고 함께 작동하게 만듭니다.</span>
+                            </div>
+                            <div style="padding:19px 0; border-bottom:1px solid #dfe6e1;">
+                                <strong style="display:block; margin-bottom:5px; color:#11863a; font-size:17px;">02 · GitHub Copilot 활용</strong>
+                                <span style="color:#56635b; font-size:15px; line-height:1.7;">VS Code, Copilot CLI, Copilot app을 개발 단계별로 활용합니다.</span>
+                            </div>
+                            <div style="padding:19px 0; border-bottom:1px solid #dfe6e1;">
+                                <strong style="display:block; margin-bottom:5px; color:#11863a; font-size:17px;">03 · Copilot SDK 활용</strong>
+                                <span style="color:#56635b; font-size:15px; line-height:1.7;">Copilot SDK 라이브러리를 애플리케이션에 통합해 에이전트 기능을 구현합니다.</span>
+                            </div>
+                            <div style="padding:19px 0;">
+                                <strong style="display:block; margin-bottom:5px; color:#11863a; font-size:17px;">04 · Azure 클라우드 배포</strong>
+                                <span style="color:#56635b; font-size:15px; line-height:1.7;">완성한 앱을 Azure에 배포해 다른 사람이 사용할 수 있는 서비스로 만듭니다.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Schedule -->
+            <div style="padding:64px 40px; background:#f3f7f4;">
+                <div style="max-width:800px; margin:0 auto;">
+                    <p style="margin:0 0 10px; color:#138b3b; font-size:14px; font-weight:800; text-align:center; letter-spacing:0;">AUGUST 14, 2026</p>
+                    <h2 style="margin:0 0 42px; color:#161b18; font-size:32px; font-weight:750; line-height:1.35; text-align:center; letter-spacing:0;">하루 일정</h2>
+
+                    <div style="overflow:hidden; border:2px solid #172019; border-radius:8px; background:#ffffff;">
+                        <div style="padding:28px 30px; background:#111813; color:#ffffff; text-align:center;">
+                            <div style="font-size:22px; font-weight:750;">10:00 - 18:00</div>
+                            <div style="margin-top:6px; color:#aeb9b2; font-size:15px;">한국 마이크로소프트 13층</div>
+                        </div>
+                        <div style="padding:18px 24px;">
+                            <table style="width:100%; border-collapse:collapse;">
+                                <tbody>
+                                    <tr><td style="width:92px; padding:17px 10px; border-bottom:1px solid #dfe6e1; color:#138b3b; font-size:15px; font-weight:800; vertical-align:top;">10:00</td><td style="padding:17px 10px; border-bottom:1px solid #dfe6e1; color:#202722; font-size:16px; font-weight:650;">체크인</td></tr>
+                                    <tr><td style="width:92px; padding:17px 10px; border-bottom:1px solid #dfe6e1; color:#138b3b; font-size:15px; font-weight:800; vertical-align:top;">10:30</td><td style="padding:17px 10px; border-bottom:1px solid #dfe6e1; color:#202722; font-size:16px; font-weight:650;">워크숍 시작</td></tr>
+                                    <tr><td style="width:92px; padding:17px 10px; border-bottom:1px solid #dfe6e1; color:#138b3b; font-size:15px; font-weight:800; vertical-align:top;">12:00</td><td style="padding:17px 10px; border-bottom:1px solid #dfe6e1; color:#202722; font-size:16px; font-weight:650;">점심 식사</td></tr>
+                                    <tr><td style="width:92px; padding:17px 10px; border-bottom:1px solid #dfe6e1; color:#138b3b; font-size:15px; font-weight:800; vertical-align:top;">13:00</td><td style="padding:17px 10px; border-bottom:1px solid #dfe6e1; color:#202722; font-size:16px; font-weight:650;">워크숍 계속</td></tr>
+                                    <tr><td style="width:92px; padding:17px 10px; color:#138b3b; font-size:15px; font-weight:800; vertical-align:top;">18:00</td><td style="padding:17px 10px; color:#202722; font-size:16px; font-weight:650;">종료</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Host -->
+            <div style="padding:64px 40px; background:#ffffff;">
+                <div style="max-width:800px; margin:0 auto;">
+                    <p style="margin:0 0 10px; color:#138b3b; font-size:14px; font-weight:800; text-align:center; letter-spacing:0;">YOUR HOST</p>
+                    <h2 style="margin:0 0 42px; color:#161b18; font-size:32px; font-weight:750; line-height:1.35; text-align:center; letter-spacing:0;">워크숍 호스트</h2>
+                    <div style="box-sizing:border-box; max-width:460px; margin:0 auto; padding:34px; border:1px solid #d7e2da; border-radius:8px; background:#f8faf8; text-align:center;">
+                        <img src="images/justin-yoo.png" alt="유저스틴" style="width:144px; height:144px; display:block; margin:0 auto 20px; border:4px solid #20c85a; border-radius:50%; object-fit:cover;" />
+                        <div style="margin-bottom:5px; color:#161b18; font-size:24px; font-weight:750;">유저스틴</div>
+                        <div style="margin-bottom:3px; color:#56635b; font-size:15px;">수석 디벨로퍼 아드보캇</div>
+                        <div style="margin-bottom:18px; color:#56635b; font-size:15px;">GitHub</div>
+                        <a href="https://github.com/justinyoo" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:0 6px; color:#11863a; font-size:14px; font-weight:700; text-decoration:none;">GitHub</a>
+                        <span style="color:#a5afa8;">·</span>
+                        <a href="https://linkedin.com/in/justinyoo" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:0 6px; color:#11863a; font-size:14px; font-weight:700; text-decoration:none;">LinkedIn</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Event information -->
+            <div style="padding:64px 40px; background:#f3f7f4;">
+                <div style="max-width:800px; margin:0 auto;">
+                    <p style="margin:0 0 10px; color:#138b3b; font-size:14px; font-weight:800; text-align:center; letter-spacing:0;">EVENT DETAILS</p>
+                    <h2 style="margin:0 0 42px; color:#161b18; font-size:32px; font-weight:750; line-height:1.35; text-align:center; letter-spacing:0;">행사 안내</h2>
+
+                    <div style="display:flex; flex-wrap:wrap; gap:16px; margin-bottom:16px;">
+                        <div style="box-sizing:border-box; flex:1 1 280px; min-width:0; padding:28px; border:1px solid #d7e2da; border-top:4px solid #20c85a; border-radius:8px; background:#ffffff;">
+                            <div style="margin-bottom:8px; color:#68756d; font-size:13px; font-weight:800;">일시 및 장소</div>
+                            <p style="margin:0; color:#202722; font-size:16px; line-height:1.75;">2026년 8월 14일 (금)<br />10:00 - 18:00<br />한국 마이크로소프트 13층</p>
+                        </div>
+                        <div style="box-sizing:border-box; flex:1 1 280px; min-width:0; padding:28px; border:1px solid #d7e2da; border-top:4px solid #20c85a; border-radius:8px; background:#ffffff;">
+                            <div style="margin-bottom:8px; color:#68756d; font-size:13px; font-weight:800;">참가 인원</div>
+                            <p style="margin:0; color:#202722; font-size:16px; line-height:1.75;"><strong style="font-size:22px;">20명 한정</strong><br />집중도 높은 실습을 위해 소규모로 진행합니다.</p>
+                        </div>
+                        <div style="box-sizing:border-box; flex:1 1 280px; min-width:0; padding:28px; border:1px solid #d7e2da; border-top:4px solid #20c85a; border-radius:8px; background:#ffffff;">
+                            <div style="margin-bottom:8px; color:#68756d; font-size:13px; font-weight:800;">참가비</div>
+                            <p style="margin:0; color:#202722; font-size:16px; line-height:1.75;"><strong style="font-size:22px;">20,000원</strong><br />행사에 참석하시면 환불해 드립니다.</p>
+                        </div>
+                        <div style="box-sizing:border-box; flex:1 1 280px; min-width:0; padding:28px; border:1px solid #d7e2da; border-top:4px solid #20c85a; border-radius:8px; background:#ffffff;">
+                            <div style="margin-bottom:8px; color:#68756d; font-size:13px; font-weight:800;">선정 방식</div>
+                            <p style="margin:0; color:#202722; font-size:16px; line-height:1.75;"><strong style="font-size:22px;">추첨 선정</strong><br />신청자 중 추첨을 통해 최종 참석자를 선정합니다.</p>
+                        </div>
+                    </div>
+
+                    <div style="box-sizing:border-box; padding:24px; border:1px solid #d7e2da; border-radius:8px; background:#ffffff;">
+                        <img src="images/map.webp" alt="한국 마이크로소프트 행사장 지도" style="width:100%; display:block; border-radius:6px; object-fit:cover;" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- Registration -->
+            <div style="padding:78px 40px; background:#0d1410; color:#ffffff; text-align:center;">
+                <div style="max-width:650px; margin:0 auto;">
+                    <p style="margin:0 0 10px; color:#45e476; font-size:14px; font-weight:800; letter-spacing:0;">20 SEATS ONLY</p>
+                    <h2 style="margin:0 0 16px; color:#ffffff; font-size:34px; font-weight:750; line-height:1.35; letter-spacing:0;">아이디어를 실제 앱으로 만들어 보세요</h2>
+                    <p style="margin:0 0 32px; color:#b9c4bd; font-size:17px; line-height:1.75;">참가비 20,000원은 행사 참석 시 환불되며,<br />최종 참석자는 신청자 중 추첨으로 선정합니다.</p>
+                    <a href="#" aria-disabled="true" style="display:inline-block; box-sizing:border-box; padding:16px 42px; border-radius:8px; background:#2bd765; color:#08210f; font-size:18px; font-weight:800; text-decoration:none;">참가 신청하기</a>
+                    <p style="margin:18px 0 0; color:#8e9a92; font-size:13px; line-height:1.6;">TODO: Ticketa 참가 신청 링크를 연결해 주세요.</p>
+                </div>
+            </div>
+
+            <!-- Footer -->
+            <div style="padding:34px 40px; background:#080d0a; color:#7f8c83; text-align:center;">
+                <p style="margin:0 0 8px; color:#aeb9b2; font-size:14px; font-weight:700;">GitHub Copilot Vibe Coding Workshop</p>
+                <p style="margin:0; font-size:13px; line-height:1.6;">2026. 08. 14 · Seoul · 한국 마이크로소프트 13층</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
