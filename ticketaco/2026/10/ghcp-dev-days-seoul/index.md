@@ -8,7 +8,7 @@
 
 # Dev Days | Seoul, South Korea
 
-![GitHub Copilot Dev Days Seoul](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/hero.jpg)
+![GitHub Copilot Dev Days Seoul](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/hero.jpg?v=2)
 
 GitHub Copilot app과 GitHub Copilot CLI를 깊이 있게 살펴보는 실전 워크샵입니다.
 
@@ -39,7 +39,7 @@ AI 보조 개발의 최신 기능과 활용 패턴을 통해 일하는 방식을
 
 ### 비개발자가 GitHub Copilot으로 코드가 아닌 '진짜 문제'를 푸는 실전 AX
 
-![이영빈](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/speaker-youngbin-lee-thumb.jpg)
+![이영빈](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/speaker-youngbin-lee-thumb.jpg?v=2)
 
 **이영빈**  
 전략개발팀장 · GM TCK
@@ -65,7 +65,7 @@ AI 보조 개발의 최신 기능과 활용 패턴을 통해 일하는 방식을
 
 ### 트랙 A · GitHub Copilot app
 
-![김진석](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/speaker-jinseok-kim-thumb.jpg)
+![김진석](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/speaker-jinseok-kim-thumb.jpg?v=2)
 
 **김진석**  
 Microsoft MVP · KH시스템즈
@@ -74,7 +74,7 @@ Microsoft MVP · KH시스템즈
 
 [GitHub](https://github.com/iamjinseok) · [LinkedIn](https://www.linkedin.com/in/iamjinseok)
 
-![방은지](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/speaker-eunji-bang-thumb.jpg)
+![방은지](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/speaker-eunji-bang-thumb.jpg?v=2)
 
 **방은지**  
 KH시스템즈
@@ -85,7 +85,7 @@ KHSystems에서 개발자로 근무하며 GitHub와 GitHub Copilot을 활용한 
 
 ### 트랙 B · GitHub Copilot CLI
 
-![김영대](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/speaker-youngdae-kim-thumb.jpg)
+![김영대](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/speaker-youngdae-kim-thumb.jpg?v=2)
 
 **김영대**  
 Microsoft MVP
@@ -94,7 +94,7 @@ Azure MVP이자 MCT로 페이스북 슬기로운 Azure 생활 커뮤니티 운�
 
 [LinkedIn](https://www.linkedin.com/in/youngdae-kim-973669167/)
 
-![유저스틴](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/speaker-justin-yoo-thumb.png)
+![유저스틴](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/speaker-justin-yoo-thumb.png?v=2)
 
 **유저스틴**  
 수석 디벨로퍼 아드보캇 · Microsoft/GitHub
