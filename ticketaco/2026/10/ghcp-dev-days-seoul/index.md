@@ -130,7 +130,7 @@ Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 �
 - 포항 · 10월 15일
 - [부산](https://bit.ly/matdaaiga-2026-10-busan) · 10월 16일
 - [대구](https://bit.ly/matdaaiga-2026-10-daegu) · 10월 17일
-- 서울 · 10월 24일
+- [서울](https://gh.io/dev-days/seoul) · 10월 24일
 - 제주 · 10월 31일
 
 ---
