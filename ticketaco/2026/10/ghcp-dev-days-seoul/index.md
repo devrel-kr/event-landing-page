@@ -1,3 +1,11 @@
+**지금 바로 신청하세요!**
+
+10월 5일 등록 마감 후 10월 8일 추첨을 통해 당첨자를 안내합니다.
+
+[참가 신청하기](https://ticketa.co/checkout/entry?id=706&quantity=1)
+
+---
+
 # Dev Days | Seoul, South Korea
 
 ![GitHub Copilot Dev Days Seoul](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/hero.jpg)
