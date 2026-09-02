@@ -2,7 +2,7 @@
 
 10월 5일 등록 마감 후 10월 8일 추첨을 통해 당첨자를 안내합니다.
 
-<a href="https://ticketa.co/checkout/entry?id=706&quantity=1" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 16px 36px; border: 1px solid #1a7f37; border-radius: 8px; background: #1f883d; color: #ffffff; box-shadow: 0 6px 16px rgba(31, 35, 40, .18); font-size: 18px; font-weight: 800; line-height: 1.2; text-align: center; text-decoration: none;">참가 신청하기</a>
+<a href="https://ticketa.co/checkout/entry?id=706&amp;quantity=1"><img src="https://img.shields.io/static/v1?label=&amp;message=%EC%B0%B8%EA%B0%80%20%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0&amp;color=1f883d&amp;style=for-the-badge" alt="참가 신청하기" width="220"></a>
 
 ---
 
@@ -111,7 +111,7 @@ Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 �
 
 10월 5일 등록 마감 후 10월 8일 추첨을 통해 당첨자를 안내합니다.
 
-<a href="https://ticketa.co/checkout/entry?id=706&quantity=1" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 16px 36px; border: 1px solid #1a7f37; border-radius: 8px; background: #1f883d; color: #ffffff; box-shadow: 0 6px 16px rgba(31, 35, 40, .18); font-size: 18px; font-weight: 800; line-height: 1.2; text-align: center; text-decoration: none;">참가 신청하기</a>
+<a href="https://ticketa.co/checkout/entry?id=706&amp;quantity=1"><img src="https://img.shields.io/static/v1?label=&amp;message=%EC%B0%B8%EA%B0%80%20%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0&amp;color=1f883d&amp;style=for-the-badge" alt="참가 신청하기" width="220"></a>
 
 > 이 행사에서는 AI 크레딧을 사용합니다. 워크샵은 Copilot Free로도 완료할 수 있지만 많은 크레딧을 사용할 수 있으니 행사 참석 전 사용량을 적절히 관리해 주세요.
 
