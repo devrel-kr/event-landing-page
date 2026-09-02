@@ -2,7 +2,7 @@
 
 10월 5일 등록 마감 후 10월 8일 추첨을 통해 당첨자를 안내합니다.
 
-[![참가 신청하기](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/register.png?v=3)](https://ticketa.co/checkout/entry?id=706&quantity=1)
+## [👉 참가 신청하기 👈](https://ticketa.co/checkout/entry?id=706&quantity=1)
 
 ---
 
@@ -111,7 +111,7 @@ Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 �
 
 10월 5일 등록 마감 후 10월 8일 추첨을 통해 당첨자를 안내합니다.
 
-[![참가 신청하기](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/register.png?v=3)](https://ticketa.co/checkout/entry?id=706&quantity=1)
+## [👉 참가 신청하기 👈](https://ticketa.co/checkout/entry?id=706&quantity=1)
 
 > 이 행사에서는 AI 크레딧을 사용합니다. 워크샵은 Copilot Free로도 완료할 수 있지만 많은 크레딧을 사용할 수 있으니 행사 참석 전 사용량을 적절히 관리해 주세요.
 
