@@ -1,6 +1,8 @@
 **지금 바로 신청하세요!**
 
-[참가 신청하기](https://gh.io/dev-days/jeju)
+선착순 등록입니다.
+
+<a href="https://gh.io/dev-days/jeju" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 16px 36px; border: 1px solid #1a7f37; border-radius: 8px; background: #1f883d; color: #ffffff; box-shadow: 0 6px 16px rgba(31, 35, 40, .18); font-size: 18px; font-weight: 800; line-height: 1.2; text-align: center; text-decoration: none;">참가 신청하기</a>
 
 ---
 
@@ -52,7 +54,9 @@ AI 보조 개발의 최신 기능과 활용 패턴을 통해 일하는 방식을
 
 **지금 바로 신청하세요!**
 
-[참가 신청하기](https://gh.io/dev-days/jeju)
+선착순 등록입니다.
+
+<a href="https://gh.io/dev-days/jeju" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 16px 36px; border: 1px solid #1a7f37; border-radius: 8px; background: #1f883d; color: #ffffff; box-shadow: 0 6px 16px rgba(31, 35, 40, .18); font-size: 18px; font-weight: 800; line-height: 1.2; text-align: center; text-decoration: none;">참가 신청하기</a>
 
 > 이 행사에서는 AI 크레딧을 사용합니다. 워크샵은 Copilot Free로도 완료할 수 있지만 많은 크레딧을 사용할 수 있으니 행사 참석 전 사용량을 적절히 관리해 주세요.
 
