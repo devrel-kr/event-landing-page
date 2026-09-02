@@ -81,7 +81,7 @@ KH시스템즈
 
 KHSystems에서 개발자로 근무하며 GitHub와 GitHub Copilot을 활용한 AI 기반 개발에 관심을 가지고 있습니다. 최근에는 AI와 MCP를 활용한 개발 사례를 주제로 발표하고, GitHub Copilot 워크숍에 프록터로 참여하는 등 다양한 경험을 쌓고 있습니다. 꾸준히 배우고 직접 경험한 내용을 공유하며, GitHub 생태계에서 함께 성장하고 도움을 줄 수 있는 개발자가 되는 것을 목표로 하고 있습니다.
 
-[LinkedIn](https://www.linkedin.com/in/%EC%9D%80%EC%A7%80-%EB%B0%A9-10b220356/)
+[GitHub](https://github.com/qkdrmawll) · [LinkedIn](https://www.linkedin.com/in/%EC%9D%80%EC%A7%80-%EB%B0%A9-10b220356/)
 
 ### 트랙 B · GitHub Copilot CLI
 
@@ -92,7 +92,7 @@ Microsoft MVP
 
 Azure MVP이자 MCT로 페이스북 슬기로운 Azure 생활 커뮤니티 운영자로 활동하고 있습니다. Microsoft 전문 MSP 회사에서 Azure/M365를 토대로 AI 및 보안 등 클라우드 기술 전반을 이끌고 있습니다. 부단한 자기계발과 성장, 그리고 사람들의 성공을 돕는 일을 가치로 삼고 있습니다.
 
-[LinkedIn](https://www.linkedin.com/in/youngdae-kim-973669167/)
+[GitHub](https://github.com/zer0big) · [LinkedIn](https://www.linkedin.com/in/youngdae-kim-973669167/)
 
 ![유저스틴](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-seoul/images/speaker-justin-yoo-thumb.png?v=3)
 
