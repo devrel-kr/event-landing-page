@@ -2,7 +2,7 @@
 
 선착순 등록입니다.
 
-<a href="https://gh.io/dev-days/jeju"><img src="https://img.shields.io/static/v1?label=&amp;message=%EC%B0%B8%EA%B0%80%20%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0&amp;color=1f883d&amp;style=for-the-badge" alt="참가 신청하기" width="220"></a>
+[![참가 신청하기](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-jeju/images/register.png?v=3)](https://gh.io/dev-days/jeju)
 
 ---
 
@@ -56,7 +56,7 @@ AI 보조 개발의 최신 기능과 활용 패턴을 통해 일하는 방식을
 
 선착순 등록입니다.
 
-<a href="https://gh.io/dev-days/jeju"><img src="https://img.shields.io/static/v1?label=&amp;message=%EC%B0%B8%EA%B0%80%20%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0&amp;color=1f883d&amp;style=for-the-badge" alt="참가 신청하기" width="220"></a>
+[![참가 신청하기](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-jeju/images/register.png?v=3)](https://gh.io/dev-days/jeju)
 
 > 이 행사에서는 AI 크레딧을 사용합니다. 워크샵은 Copilot Free로도 완료할 수 있지만 많은 크레딧을 사용할 수 있으니 행사 참석 전 사용량을 적절히 관리해 주세요.
 
