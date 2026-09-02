@@ -8,7 +8,7 @@
 
 # Dev Days | Jeju, South Korea
 
-![GitHub Copilot Dev Days Jeju](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-jeju/images/hero.jpg)
+![GitHub Copilot Dev Days Jeju](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-jeju/images/hero.jpg?v=3)
 
 GitHub Copilot app과 GitHub Copilot CLI를 깊이 있게 살펴보는 실전 워크샵입니다.
 
