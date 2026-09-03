@@ -38,15 +38,37 @@ AI 보조 개발의 최신 기능과 활용 패턴을 통해 일하는 방식을
 ## 시간표
 
 - **12:00 - 12:30** · 체크인
-- **12:30 - 13:00** · 오프닝
-- **13:00 - 17:30** · GitHub Copilot 워크샵
+- **12:30 - 13:00** · 오프닝 및 실습 환경 설정
+- **13:00 - 15:00** · GitHub Copilot app 워크샵 · 방은지
+- **15:00 - 17:00** · GitHub Copilot CLI 워크샵 · 유저스틴
+- **17:00 - 17:30** · 실습 마무리 및 질의응답
 - **17:30 - 18:00** · 클로징
 
 ---
 
 ## 연사 소개
 
-연사와 세부 세션은 확정되는 대로 공개합니다.
+### GitHub Copilot app · 13:00 - 15:00
+
+![방은지](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-jeju/images/speaker-eunji-bang-thumb.jpg?v=3)
+
+**방은지**<br>
+KH시스템즈
+
+KHSystems에서 개발자로 근무하며 GitHub와 GitHub Copilot을 활용한 AI 기반 개발에 관심을 가지고 있습니다. 최근에는 AI와 MCP를 활용한 개발 사례를 주제로 발표하고, GitHub Copilot 워크숍에 프록터로 참여하는 등 다양한 경험을 쌓고 있습니다. 꾸준히 배우고 직접 경험한 내용을 공유하며, GitHub 생태계에서 함께 성장하고 도움을 줄 수 있는 개발자가 되는 것을 목표로 하고 있습니다.
+
+[GitHub](https://github.com/qkdrmawll) · [LinkedIn](https://www.linkedin.com/in/%EC%9D%80%EC%A7%80-%EB%B0%A9-10b220356/)
+
+### GitHub Copilot CLI · 15:00 - 17:00
+
+![유저스틴](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-jeju/images/speaker-justin-yoo-thumb.png?v=3)
+
+**유저스틴**<br>
+수석 디벨로퍼 아드보캇 · Microsoft/GitHub
+
+Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 개발자 커뮤니티와 다양한 채널을 통해 소통하고 있습니다. 자나깨나 개발자 생산성 향상에 Azure, .NET, GitHub Copilot 등이 어떻게 도움이 될 수 있을까 고민합니다.
+
+[GitHub](https://github.com/justinyoo) · [LinkedIn](https://linkedin.com/in/justinyoo)
 
 ---
 
@@ -73,7 +95,7 @@ AI 보조 개발의 최신 기능과 활용 패턴을 통해 일하는 방식을
 
 ## Dev Days 로드쇼
 
-- 포항 · 10월 15일
+- [포항](https://bit.ly/matdaaiga-2026-10-pohang) · 10월 15일
 - [부산](https://bit.ly/matdaaiga-2026-10-busan) · 10월 16일
 - [대구](https://bit.ly/matdaaiga-2026-10-daegu) · 10월 17일
 - [서울](https://gh.io/dev-days/seoul) · 10월 24일

@@ -1,6 +1,6 @@
 **지금 바로 신청하세요!**
 
-10월 5일 등록 마감 후 10월 8일 추첨을 통해 당첨자를 안내합니다.
+10월 4일 등록 마감 후 10월 8일 추첨을 통해 당첨자를 안내합니다.
 
 ## [👉 참가 신청하기 👈](https://ticketa.co/checkout/entry?id=706&quantity=1)
 
@@ -109,7 +109,7 @@ Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 �
 
 **지금 바로 신청하세요!**
 
-10월 5일 등록 마감 후 10월 8일 추첨을 통해 당첨자를 안내합니다.
+10월 4일 등록 마감 후 10월 8일 추첨을 통해 당첨자를 안내합니다.
 
 ## [👉 참가 신청하기 👈](https://ticketa.co/checkout/entry?id=706&quantity=1)
 
@@ -127,7 +127,7 @@ Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 �
 
 ## Dev Days 로드쇼
 
-- 포항 · 10월 15일
+- [포항](https://bit.ly/matdaaiga-2026-10-pohang) · 10월 15일
 - [부산](https://bit.ly/matdaaiga-2026-10-busan) · 10월 16일
 - [대구](https://bit.ly/matdaaiga-2026-10-daegu) · 10월 17일
 - [서울](https://gh.io/dev-days/seoul) · 10월 24일
