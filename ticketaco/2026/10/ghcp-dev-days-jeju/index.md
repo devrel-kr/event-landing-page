@@ -93,6 +93,14 @@ Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 �
 
 ---
 
+## 후원사
+
+[![Microsoft](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-jeju/images/logo-microsoft-thumb.png)](https://microsoft.com/ko-kr/)
+
+[![Infragistics](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-jeju/images/logo-infragistics-thumb.png)](https://www.infragistics.co.kr/)
+
+---
+
 ## Dev Days 로드쇼
 
 - [포항](https://bit.ly/matdaaiga-2026-10-pohang) · 10월 15일
