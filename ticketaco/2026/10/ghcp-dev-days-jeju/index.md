@@ -91,6 +91,8 @@ Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 �
 - **주차:** 별도 주차 지원이 없으므로 대중교통 이용을 권장합니다.
 - **문의:** [devrel-kr@microsoft.com](mailto:devrel-kr@microsoft.com?subject=%5BGHCP%20Dev%20Days%5D)
 
+![제주창조경제혁신센터 행사장 위치 지도](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/10/ghcp-dev-days-jeju/images/map.webp)
+
 ---
 
 ## 후원사
