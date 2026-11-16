@@ -1,4 +1,4 @@
-![AgentOps - 에이전트 최적화 핸즈온 워크샵](images/hero.png)
+![AgentOps - 에이전트 최적화 핸즈온 워크샵](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/12/agentops/images/hero.png)
 
 # AgentOps - 에이전트 최적화 핸즈온 워크샵
 
@@ -41,7 +41,7 @@ YOUR HOST
 
 ## 워크샵 진행
 
-![유저스틴 프로필 사진](images/speaker-justin-yoo.png)
+![유저스틴 프로필 사진](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/12/agentops/images/speaker-justin-yoo.png)
 
 **유저스틴**
 
@@ -96,7 +96,7 @@ WHAT YOU'LL PRACTICE
 - **주차 안내:** 주차는 지원되지 않습니다. 대중교통 이용을 권장드립니다.
 - **행사 문의:** [devrel-kr@microsoft.com](mailto:devrel-kr@microsoft.com)
 
-![한국 마이크로소프트 위치 지도](images/map.webp)
+![한국 마이크로소프트 위치 지도](https://devrel-kr.github.io/event-landing-page/ticketaco/2026/12/agentops/images/map.webp)
 
 ---
 
